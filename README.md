@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rihan Shaikh
 - 🌱 I’m currently learning Machine Learning
 - 👀 I’m interested in AI and Game development
-- 💞️ I am also die heart gamer @BontyHntr
-- 🎮 I play Valorant, CSGO and Apex
+- 🎮 I am also die heart gamer @BontyHntr
+- 💻 I code in C, C++, JAVA, Python and assembly programing too 
 - 📫 shaikhrihan666@gmail.com
 
 <!---
